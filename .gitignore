@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.egg-info/
+.pytest_tmp/
+backend/data/*.sqlite3
+backend/data/*.sqlite3-*
+.tmp/
+node_modules/
+dist/
+.npm-cache/
